@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/mktcoin_bg.qm</file>
+        <file alias="ca">locale/mktcoin_ca.qm</file>
+        <file alias="cs">locale/mktcoin_cs.qm</file>
+        <file alias="da">locale/mktcoin_da.qm</file>
+        <file alias="de">locale/mktcoin_de.qm</file>
+        <file alias="en">locale/mktcoin_en.qm</file>
+        <file alias="en_US">locale/mktcoin_en_US.qm</file>
+        <file alias="es">locale/mktcoin_es.qm</file>
+        <file alias="fi">locale/mktcoin_fi.qm</file>
+        <file alias="fr_FR">locale/mktcoin_fr_FR.qm</file>
+        <file alias="it">locale/mktcoin_it.qm</file>
+        <file alias="ja">locale/mktcoin_ja.qm</file>
+        <file alias="ko_KR">locale/mktcoin_ko_KR.qm</file>
+        <file alias="nl">locale/mktcoin_nl.qm</file>
+        <file alias="pl">locale/mktcoin_pl.qm</file>
+        <file alias="pt">locale/mktcoin_pt.qm</file>
+        <file alias="pt_BR">locale/mktcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/mktcoin_ro_RO.qm</file>
+        <file alias="ru">locale/mktcoin_ru.qm</file>
+        <file alias="sk">locale/mktcoin_sk.qm</file>
+        <file alias="sv">locale/mktcoin_sv.qm</file>
+        <file alias="uk">locale/mktcoin_uk.qm</file>
+        <file alias="zh_CN">locale/mktcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/mktcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

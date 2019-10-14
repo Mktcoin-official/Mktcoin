@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MktCoin
+Comment=MktCoin P2P Cryptocurrency
+Comment[fr]=MktCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MktCoin, eşten eşe kriptografik sanal para birimi
+Exec=mktcoin-qt %u
+Terminal=false
+Type=Application
+Icon=mktcoin128
+MimeType=x-scheme-handler/mktcoin;
+Categories=Office;Finance;
